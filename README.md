@@ -27,6 +27,12 @@
     </a>
   </p>
 
+  ### Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miryrusso&theme=tokyonight&layout=donut)
+
+![Activities](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miryrusso&theme=tokyonight)
+
 <!--
   <h3 align="justify">📚 My Projects 📚</h3>
   <ul>
