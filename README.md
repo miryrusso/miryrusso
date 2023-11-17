@@ -8,7 +8,7 @@
   </h1>
 
   <a href="https://www.linkedin.com/in/miriana-russo-07987a217/">
-      <img src="https://img.shields.io/badge/-Andrei-blue?style=flat-square&logo=Linkedin&logoColor=white"
+      <img src="https://img.shields.io/badge/-Miriana Russo-blue?style=flat-square&logo=Linkedin&logoColor=white"
           alt="Linkedin Badge">
   </a>
   
