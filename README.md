@@ -2,7 +2,9 @@
 <html lang="en">
 <body>
   <h1 align="center">
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+Developer!+💻;&center=true&size=30">
+      <a href = "https://github.com/miryrusso?tab=repositories">
+        <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+Developer!+💻;&center=true&size=30">
+      </a>
   </h1>
 
   <a href="https://www.linkedin.com/in/miriana-russo-07987a217/">
