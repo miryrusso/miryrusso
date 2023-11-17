@@ -7,13 +7,13 @@
     </a>
   </h1>
 
-  <a href="https://www.linkedin.com/in/andrei-stefan-61893b274/">
+  <a href="https://www.linkedin.com/in/miriana-russo-07987a217/">
       <img src="https://img.shields.io/badge/-Andrei-blue?style=flat-square&logo=Linkedin&logoColor=white"
           alt="Linkedin Badge">
   </a>
   
   <p align="justify">
-    <strong>I'm Andrei Stefan</strong></u>
+    <strong>I'm Miriana Russo</strong></u>
     <br>
     📚 I'm currently studying Computer Science (L-31) @ Università degli Studi di Catania
     <br>
