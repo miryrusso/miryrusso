@@ -23,7 +23,7 @@
   <h3 align="justify">🔥 Languages & Tools 🔥</h3>
   <p align="justify">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=c,cpp,java,python,bash,git,github,vscode,godot,raspberrypi,linux,processing,jupyter" />
+      <img src="https://skillicons.dev/icons?i=c,cpp,java,python,bash,git,github,vscode,godot,raspberrypi,linux,processing" />
     </a>
   </p>
 
