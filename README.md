@@ -28,8 +28,8 @@
   </p>
 
   ### Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miryrusso&theme=tokyonight&layout=donut)
+<!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miryrusso&theme=tokyonight&layout=donut)-->
 
 ![Activities](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miryrusso&theme=tokyonight)
 
