@@ -45,6 +45,7 @@
       <li><a href="https://github.com/LightDestory/IoT_CapybaraSafe">IoT: CapybaraSafe</a> 🌐 </li>
       <li><a href="https://github.com/miryrusso/Sistemi-Operativi/blob/main/Codici/morra_cinese_sem.c">Morra Cinese</a> 🎮</li>
       <li><a href="https://github.com/miryrusso/Web-Development">Different Web-development project</a> ⌨</li>
+      <li><a href="https://github.com/miryrusso/Web-Development/tree/main/Terminale_java_script">Simulazione Terminale Ubuntu in JavaScript</a> ⌨</li>
   </ul> 
   
 <!--
