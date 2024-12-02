@@ -36,9 +36,6 @@
     </a>
   </p>
 
-  ### 📊 Profile's stats
-
-![Activities](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miryrusso&theme=tokyonight)
 
   <h3 align="justify">📚 My Projects 📚</h3>
   <ul>
