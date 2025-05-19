@@ -22,9 +22,11 @@
   <p align="center">
     <strong>I'm Miriana Russo</strong></u>
     <br>
-    📚 I'm currently studying Computer Science (L-31) @ Università degli Studi di Catania
+    🎓 I graduated with top honors (110 cum laude) in Computer Science (L-31) in July 2024.
     <br>
-    💻 I love writing code and learning about anything related to it
+    📚 I'm currently studying Computer Science (LM-18) @ Università degli Studi di Catania
+    <br>
+    💻 I love writing code and learning about anything related to it.
     <br>
     🦆 I love ducks and low-level programming like a bass loves water.
   </p>
