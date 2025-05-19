@@ -24,7 +24,7 @@
     <br>
     🎓 I graduated with top honors (110 cum laude) in Computer Science (L-31) in July 2024.
     <br>
-    📚 I'm currently studying Computer Science (LM-18) @ Università degli Studi di Catania
+    📚 I'm currently studying Computer Science (LM-18) @ University of Catania
     <br>
     💻 I love writing code and learning about anything related to it.
     <br>
